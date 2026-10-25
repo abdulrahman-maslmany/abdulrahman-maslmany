@@ -1,6 +1,5 @@
 ### 🔬 Peer-Reviewed Research & Publications (Zenodo / CERN)
 * [Subpixel Geometry and Chromatic Aberration in Rotated Display Panels](https://doi.org/10.5281/zenodo.23064894)
-* [PCIe Lane Bifurcation & Collective Communication Overhead in Tensor Parallel Inference](https://doi.org/10.5281/zenodo.22641931)
 * [Enterprise Open-Source Foundation Models for RAG & Systems Synthesis](https://doi.org/10.5281/zenodo.22537033)
 * [PCIe Lane Bifurcation & Collective Communication Overhead in Tensor Parallel Inference](https://doi.org/10.5281/zenodo.23642528)
 * [Cumulative Memory Sizing & Asymmetric Latency in Local RAG Pipelines](https://doi.org/10.5281/zenodo.23642921)
